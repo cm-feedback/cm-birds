@@ -1,0 +1,410 @@
+Report for Institution Code CM, Resource cm_birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 340
+Number of records retrieved in searches: 6652
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: Canada ; Times: 19
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 210
+	Country: Germany ; Times: 13
+	Country: Peru ; Times: 4
+	Country: Puerto Rico ; Times: 6
+	Country: New Zealand ; Times: 5
+	Country: Russia ; Times: 9
+	Country: Denmark ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 11
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-08 ; Times: 9
+	Date: 2015-12-03 ; Times: 3
+	Date: 2015-12-02 ; Times: 15
+	Date: 2015-12-01 ; Times: 8
+	Date: 2015-12-07 ; Times: 12
+	Date: 2015-12-06 ; Times: 14
+	Date: 2015-12-05 ; Times: 7
+	Date: 2015-12-04 ; Times: 17
+	Date: 2015-12-21 ; Times: 15
+	Date: 2015-12-20 ; Times: 6
+	Date: 2015-12-23 ; Times: 6
+	Date: 2015-12-22 ; Times: 10
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 6
+	Date: 2015-12-27 ; Times: 11
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-28 ; Times: 4
+	Date: 2015-12-16 ; Times: 10
+	Date: 2015-12-14 ; Times: 34
+	Date: 2015-12-15 ; Times: 62
+	Date: 2015-12-30 ; Times: 7
+	Date: 2015-12-31 ; Times: 12
+	Date: 2015-12-10 ; Times: 9
+	Date: 2015-12-11 ; Times: 9
+	Date: 2015-12-12 ; Times: 13
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-18 ; Times: 8
+	Date: 2015-12-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammodramus henslowii (Virginia) AND (NOT West)" ; Times: 1
+	Query: "Buteo jamaicensis (los angeles county ) year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "zimmerius gracilipes stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Dendrexetastes rufigula country:&#34;brazil&#34; institutioncode:CM" ; Times: 2
+	Query: "Cinclus cinclus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Chondestes grammacus strigatus year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "carnegie museum of natural history" ; Times: 2
+	Query: "osburn larimer" ; Times: 1
+	Query: "Habia rubica bolivia santa cruz" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:pachyramphus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:schiffornis class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "gyps fulvus" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Celeus" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (cyanocephala)" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "specificepithet:turdinus genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "conopophaga peruviana institutioncode:CM" ; Times: 1
+	Query: "Dendrexetastes rufigula country:&#34;peru&#34; institutioncode:CM" ; Times: 1
+	Query: "myrmotherula brachyura institutioncode:CM" ; Times: 1
+	Query: "dendrocitta vagabunda tissue:1" ; Times: 2
+	Query: "Columbina passerina nigrirostris" ; Times: 1
+	Query: "sclateria naevia institutioncode:CM" ; Times: 1
+	Query: "Xiphorhynchus ocellatus stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "specificepithet:pucheranii family:Cuculidae" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "weddell" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Otus nudipes type:specimen" ; Times: 1
+	Query: "Lanius ludovicianus (Virginia)" ; Times: 1
+	Query: "hypocnemoides maculicauda stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1888 year &lt;= 1890" ; Times: 1
+	Query: "tolmomyias flaviventris stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "specificepithet:inquisitor genus:Tityra class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "opisthocomus preparations:fluid" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dendrocincla fuliginosa institutioncode:CM" ; Times: 2
+	Query: "Pycnonotus type:specimen preparations:fluid" ; Times: 1
+	Query: "genus:Opisthocomus preparations:fluid" ; Times: 1
+	Query: "Xiphorhynchus picus stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "ramphotrigon institutioncode:CM" ; Times: 1
+	Query: "candida" ; Times: 1
+	Query: "type:specimen family:strigidae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "hemitriccus iohannis institutioncode:CM" ; Times: 1
+	Query: "tyrannulus elatus stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "hylophylax naevia stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Sittasomus griseicapillus institutioncode:CM" ; Times: 2
+	Query: "Lepidocolaptes albolineatus country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 2
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "Thamnomanes schistogynus institutioncode:CM" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "tolmomyias assimilis institutioncode:CM" ; Times: 1
+	Query: "Dendrocincla merula institutioncode:CM" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (senilis) year &gt;= 1968" ; Times: 1
+	Query: "tyrannulus elatus institutioncode:CM" ; Times: 1
+	Query: "type:specimen genus:dacnis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "neoctantes niger stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "class:aves county:&#34;Columbia&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "pygiptila stellaris stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "deconychura minor" ; Times: 5
+	Query: "Ptiloris intercedens type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "specificepithet:inquisitor genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mionectes institutioncode:CM" ; Times: 1
+	Query: "Pterodroma longirostris" ; Times: 3
+	Query: "Turdus assimilis country:&#34;Panama&#34;" ; Times: 1
+	Query: "Leptopogon superciliaris year &gt;= 1905 year &lt;= 1907" ; Times: 1
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes country:&#34;argentina&#34;" ; Times: 1
+	Query: "leptopogon amaurocephalus country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "specificepithet:semifasciata genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Lophura pyronota preparations:skin" ; Times: 2
+	Query: "aves country:&#34;North Korea&#34;" ; Times: 1
+	Query: "colinus cristatus" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1800 year &lt;= 1890" ; Times: 1
+	Query: "bRAZIL genus:Tityra class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "thamnophilus schistaceus stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "class:Aves locality:Cienaga stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Dendrocolaptes certhia country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 6
+	Query: "monster" ; Times: 10
+	Query: "erythrogaster maryland" ; Times: 2
+	Query: "genus:Tringa year &gt;= 1984 year &lt;= 1984" ; Times: 2
+	Query: "cymbilaimus lineatus institutioncode:CM" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "genus:Schiffornis class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "hemitriccus zosterops institutioncode:CM" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "pulsatrix tissue:1" ; Times: 3
+	Query: "Dichrozona cincta stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "guttatus maryland" ; Times: 1
+	Query: "passer domesticus country:&#34;india&#34; continent:asia year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "huallagae preparations:skin" ; Times: 1
+	Query: "myrmotherula menetriesii stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "formicarius institutioncode:CM" ; Times: 1
+	Query: "Pachyramphus albogriseus salvini" ; Times: 1
+	Query: "Glyphorynchus spirurus country:&#34;Peru&#34; institutioncode:CM" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Thamnophilus ruficapillus type:specimen" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 1
+	Query: "Accipiter chionogaster" ; Times: 1
+	Query: "genus:Opisthocomus preparations:alcohol" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "type:specimen genus:iodopleura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "corythopis torquata country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 2
+	Query: "Nothoprocta cinerascens" ; Times: 2
+	Query: "piculus leucolaemus institutioncode:CM" ; Times: 2
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "agelastes niger" ; Times: 2
+	Query: "myrmotherula sclateri stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "myiopagis viridicata stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Parotia sefilata preparations:skin" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 4
+	Query: "genus:laniocera class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Opisthocomus preparations:Alcohol" ; Times: 1
+	Query: "magnolia (Labrador Newfoundland)" ; Times: 1
+	Query: "hylopezus berlepschi institutioncode:CM" ; Times: 2
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "RW Wehrle" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus)" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 4
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "aves santa catarina brazil" ; Times: 1
+	Query: "Selasphorus platycercus type:specimen tissue:1" ; Times: 1
+	Query: "Pachyramphus albogriseus albogriseus" ; Times: 2
+	Query: "specificepithet:major genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Deconychura longicauda institutioncode:CM" ; Times: 1
+	Query: "Xiphorhynchus guttatus institutioncode:CM" ; Times: 1
+	Query: "liosceles thoracicus stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "myiopagis gaimardii institutioncode:CM" ; Times: 1
+	Query: "vireo cassinii baja california" ; Times: 1
+	Query: "myiopagis gaimardii stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Pteroglossus sanguineus" ; Times: 1
+	Query: "taraba major stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Excalfactoria adansonii family:Phasianidae preparations:skin" ; Times: 1
+	Query: "myiornis ecaudatus country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "genus:laniocera class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Sarothrura elegans preparations:skin" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "conopophaga peruviana stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "notiomystis" ; Times: 1
+	Query: "cercomacra cinerascens institutioncode:CM" ; Times: 1
+	Query: "WHT" ; Times: 1
+	Query: "type:specimen genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 2
+	Query: "Sceloglaux albifacies" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "minot" ; Times: 1
+	Query: "genus:laniocera class:Aves stateprovince:&#34;amapa&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cissa tissue:1" ; Times: 1
+	Query: "Coturnix novaezelandiae family:Phasianidae preparations:skin" ; Times: 1
+	Query: "machaeropterus deliciosus" ; Times: 3
+	Query: "genus:dacnis class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "type:specimen specificepithet:atricaudus genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "genus:Tityra class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "swierstrai family:Phasianidae preparations:skin" ; Times: 1
+	Query: "todirostrum chrysocrotaphum institutioncode:CM" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "type:specimen genus:Myiobius class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "specificepithet:saturatus family:Cuculidae preparations:skin" ; Times: 1
+	Query: "Numenius borealis" ; Times: 3
+	Query: "Wilsonia pusilla (Costa Rica) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "genus:Iodopleura class:Aves" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "tolmomyias poliocephalus institutioncode:CM" ; Times: 1
+	Query: "Psittacidae Arizona" ; Times: 2
+	Query: "simplex institutioncode:CM" ; Times: 1
+	Query: "Ploceus bojeri" ; Times: 2
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "gymnopithys salvini stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 2
+	Query: "myrmeciza hyperythra stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "percnostola institutioncode:CM" ; Times: 1
+	Query: "Synallaxis subpudica" ; Times: 1
+	Query: "histrionicus colorado" ; Times: 1
+	Query: "Lophura erythrophthalma preparations:skin" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 3
+	Query: "type:specimen genus:Pionus order:Psittaciformes (chalcopterus) year &gt;= 1968" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "Salpinctes obsoletus exsul" ; Times: 1
+	Query: "Glyphorynchus spirurus country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Williams 1955" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "specificepithet:sordidulus genus:contopus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:vireo stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; (cassinii solitarius)" ; Times: 1
+	Query: "Ammodramus henslowii (Virginia)" ; Times: 1
+	Query: "Lophura diardi preparations:skin" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "nasica longirostris stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "passer domesticus continent:asia year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "hylophylax poecilonota stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "solanum" ; Times: 1
+	Query: "turnix tissue:1" ; Times: 1
+	Query: "wilsonia pusilla (alberta) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Pluvianus" ; Times: 1
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "grallaria institutioncode:CM" ; Times: 1
+	Query: "Terenura humeralis stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Lepidocolaptes albolineatus institutioncode:CM" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;amapa&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Zonotrichia leucophrys year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "Urocissa caerulea" ; Times: 4
+	Query: "Metopothrix aurantiacus" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Trogon massena institutioncode:CM" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Glyphorynchus spirurus institutioncode:CM" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "pachyramphus albogriseus salvini" ; Times: 1
+	Query: "hypocnemis cantator stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "griseostriatus family:Phasianidae preparations:skin" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;sao paulo&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "minot aves" ; Times: 1
+	Query: "wilsonia pusilla (Costa Rica) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "specificepithet:hypopyrra genus:laniocera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:accipitridae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "mionectes oleagineus institutioncode:CM" ; Times: 1
+	Query: "type:specimen specificepithet:barbatus genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "pulsatrix institutioncode:CM" ; Times: 2
+	Query: "Xiphocolaptes orenocensis country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Microrhopias quixensis stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Andigena cucullata type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "tolmomyias flaviventris institutioncode:CM" ; Times: 1
+	Query: "myrmotherula longipennis stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Calyptophilus frugivorus year &gt;= 1883 year &lt;= 1883" ; Times: 1
+	Query: "myrmotherula iheringi stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "scytalopus femoralis institutioncode:CM" ; Times: 1
+	Query: "rollandia microptera" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus exiguus type:specimen" ; Times: 1
+	Query: "Xiphorhynchus obsoletus stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "YPM" ; Times: 1
+	Query: "Pteroglossus beauharnaesii preparations:skin" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi year &gt;= 1897 year &lt;= 1898" ; Times: 1
+	Query: "specificepithet:modestus family:rallidae preparations:skin" ; Times: 1
+	Query: "thamnophilus aethiops stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "sialia mexicana year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (quebec) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Turdus assimilis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Ptiloris intercedens preparations:skin" ; Times: 1
+	Query: "myrmeciza fortis institutioncode:CM" ; Times: 1
+	Query: "Neomorphus squamiger" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 889 download events in this period)
+Total number of records downloaded: 12797
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: United States ; Times: 39
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-23 ; Times: 9
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 7
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 6
+	Date: 2015-12-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "chloropipo unicolor" ; Times: 2
+	Query: "vireo cassinii baja california" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "Selasphorus sasin type:specimen tissue:1" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "wilsonia pusilla (alberta) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "wilsonia pusilla (oregon) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Selasphorus rufus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Selasphorus scintilla type:specimen" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "specificepithet:sordidulus genus:contopus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "agelastes niger" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "Calyptophilus frugivorus year &gt;= 1883 year &lt;= 1883" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "passer domesticus" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "terpsiphone year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (quebec) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (ontario) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
