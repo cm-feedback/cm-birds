@@ -1,0 +1,225 @@
+Report for Institution Code CM, Resource cm_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1578
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 14
+	Country: Colombia ; Times: 9
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 27
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 65
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: China ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 8
+	Date: 2016-05-18 ; Times: 7
+	Date: 2016-05-17 ; Times: 5
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 11
+	Date: 2016-05-12 ; Times: 19
+	Date: 2016-05-11 ; Times: 11
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-31 ; Times: 13
+	Date: 2016-05-30 ; Times: 7
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-04 ; Times: 7
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 21
+	Date: 2016-05-27 ; Times: 6
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 7
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 6
+	Date: 2016-05-29 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "type:specimen specificepithet:pulchellus institutioncode:CM" ; Times: 1
+	Query: "Myzomela cardinalis sanctaecrucis" ; Times: 1
+	Query: "Campethera nubica pallida" ; Times: 1
+	Query: "genus:Lipaugus stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "Aythya AND americana AND collaris" ; Times: 1
+	Query: "genus:Colaptes country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "type:specimen specificepithet:olivaceus genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "chlorostilbon forficatus" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "yale peabody museum" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Carnegie" ; Times: 1
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "caprimulgus indicus" ; Times: 1
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "euscarthmus meloryphus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dendrocygna minnesota" ; Times: 2
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "Falco AND San Miguel Island" ; Times: 1
+	Query: "Pandion AND San Clemente Island" ; Times: 1
+	Query: "Chlorostilbon forficatus" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "habia mesopotamia" ; Times: 1
+	Query: "grus testis" ; Times: 5
+	Query: "cm 349" ; Times: 1
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+	Query: "otus fuliginosus" ; Times: 1
+	Query: "genus:certhia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Ortygospiza tissue:1" ; Times: 1
+	Query: "Otocoris AND San Clemente Island" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:inexpectata institutioncode:CM" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Agelaius phoeniceus institutioncode:CM" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "vermivora CM" ; Times: 1
+	Query: "melanerpes santacruzi" ; Times: 1
+	Query: "Myiarchus venezuelensis" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Terenura spodioptila" ; Times: 2
+	Query: "Numida" ; Times: 1
+	Query: "Corvus africa skeleton" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "San Clemente Island AND Pandion" ; Times: 1
+	Query: "Otocoris AND Island" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "Henshaw AND Santa Cruz Island" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "Solenopsis invicta" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 2
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "specificepithet:penelope class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 2016" ; Times: 1
+	Query: "Aves nasutus Kenya" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "E1674" ; Times: 1
+	Query: "galbula tombacea" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "Agelaius phoeniceus california institutioncode:CM" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "type:specimen genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "columba plumbea institutioncode:CM" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Falco sparverius AND Miguel Island" ; Times: 1
+	Query: "euscarthmus meloryphus country:&#34;colombia&#34;" ; Times: 2
+	Query: "32603" ; Times: 1
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "Rallus elegans country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Coracopsis tissue:1" ; Times: 1
+	Query: "anhima cornuta" ; Times: 4
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "Heteroscelus incanus AND San Clemente Island" ; Times: 3
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "CM P18129" ; Times: 2
+	Query: "conuropsis carolinensis" ; Times: 4
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "catharus minimus institutioncode:CM" ; Times: 1
+	Query: "batis" ; Times: 1
+	Query: "Pachyramphus castaneus amazonus" ; Times: 1
+	Query: "Caloramphus fuliginosus sarawak" ; Times: 1
+	Query: "Colius striatus Tanzania" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Otocoris alpestris AND San Clemente Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 327 download events in this period)
+Total number of records downloaded: 4640
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 8
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Agelaius phoeniceus institutioncode:CM" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Agelaius phoeniceus california institutioncode:CM" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+
+
+End of report.
