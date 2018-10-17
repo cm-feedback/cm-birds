@@ -1,0 +1,458 @@
+Report for Institution Code CM, Resource cm_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 581
+Number of records retrieved in searches: 3499
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 3
+	Country: Solomon Islands ; Times: 1
+	Country: Unknown ; Times: 19
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 32
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Venezuela ; Times: 14
+	Country: Ecuador ; Times: 18
+	Country: Australia ; Times: 105
+	Country: China ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 298
+	Country: New Zealand ; Times: 14
+	Country: Russia ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 20
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 19
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 7
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 12
+	Date: 2018-06-25 ; Times: 112
+	Date: 2018-06-24 ; Times: 7
+	Date: 2018-06-27 ; Times: 19
+	Date: 2018-06-26 ; Times: 34
+	Date: 2018-06-21 ; Times: 30
+	Date: 2018-06-20 ; Times: 23
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 36
+	Date: 2018-06-22 ; Times: 28
+	Date: 2018-06-11 ; Times: 14
+	Date: 2018-06-12 ; Times: 9
+	Date: 2018-06-13 ; Times: 24
+	Date: 2018-06-14 ; Times: 12
+	Date: 2018-06-15 ; Times: 28
+	Date: 2018-06-16 ; Times: 15
+	Date: 2018-06-18 ; Times: 11
+	Date: 2018-06-19 ; Times: 28
+	Date: 2018-06-30 ; Times: 20
+	Date: 2018-06-29 ; Times: 27
+	Date: 2018-06-28 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "frazar labrador 1884" ; Times: 1
+	Query: "melanerpes rubricapillus vntype:specimen institutioncode:CM" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Atlapetes rufigenis" ; Times: 2
+	Query: "CM 3809" ; Times: 2
+	Query: "specificepithet:Tenebrosa genus:Rhipidura class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "red partridge" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "tyrannus albogularis" ; Times: 1
+	Query: "tchagra mandanus" ; Times: 1
+	Query: "Coereba vntype:specimen (San Miguel Island)" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "Mesitornis variegata" ; Times: 2
+	Query: "specificepithet:hyperboreus class:aves locality:hall stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; collectioncode:birds institutioncode:CM" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "Hirundo semirufa" ; Times: 1
+	Query: "upupidae institutioncode:CM" ; Times: 2
+	Query: "locality:Paw Paw stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Porzana palmeri)" ; Times: 2
+	Query: "genus:Threskiornis family:Threskiornithidae continent:Africa" ; Times: 1
+	Query: "chlorochrysa nitidissima" ; Times: 1
+	Query: "picumnus purusianus" ; Times: 3
+	Query: "specificepithet:celebensis genus:basilornis hasmass:1" ; Times: 1
+	Query: "genus:Zosterops family:Zosteropidae class:Aves (W. A.)" ; Times: 1
+	Query: "sterna dougallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "himantopus novaezelandiae" ; Times: 4
+	Query: "Entomodestes" ; Times: 2
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "ac-294" ; Times: 1
+	Query: "Dacnis viguieri" ; Times: 1
+	Query: "Gallirallus torquatus" ; Times: 2
+	Query: "Polyborus lutosus" ; Times: 4
+	Query: "ac-356" ; Times: 1
+	Query: "CM 7715" ; Times: 2
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "CM 33055" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 1
+	Query: "muscicapa lendu" ; Times: 2
+	Query: "specificepithet:boehmi genus:muscicapa hasmass:1" ; Times: 1
+	Query: "Atlapetes personatus" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "Pycnonotus xanthopygos" ; Times: 1
+	Query: "zoothera tanganjicae" ; Times: 3
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "francolinus (skeleton)" ; Times: 5
+	Query: "stateprovince:&#34;Minas Gerais&#34; collectioncode:birds institutioncode:CM" ; Times: 1
+	Query: "specificepithet:andicola genus:Leptasthenura" ; Times: 1
+	Query: "Atlapetes gutturalis" ; Times: 2
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "locality:Ootacamund" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "cm 1617" ; Times: 1
+	Query: "&#34;Paw Paw&#34; vntype:specimen stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "lamprotornis iris" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 2
+	Query: "frog hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "recordedby:Jillson" ; Times: 2
+	Query: "Atlapetes albofrenatus" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Strigops habroptilus)" ; Times: 1
+	Query: "specificepithet:harpyja genus:Harpia" ; Times: 3
+	Query: "cossyphicula roberti" ; Times: 10
+	Query: "nothocercus" ; Times: 1
+	Query: "florida worm" ; Times: 3
+	Query: "Turdus nigrideus hastissue:1" ; Times: 1
+	Query: "Tachyeres patachonicus" ; Times: 1
+	Query: "melaenornis brunneus" ; Times: 2
+	Query: "Thryomanes brevicauda" ; Times: 1
+	Query: "acridotheres albocinctus" ; Times: 1
+	Query: "Pipra coronata venezuela" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 2
+	Query: "specificepithet:poensis genus:laniarius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "xenoligea montana" ; Times: 11
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 3
+	Query: "muscicapa randi" ; Times: 2
+	Query: "Micropygia schomburgkii" ; Times: 12
+	Query: "CM 33227" ; Times: 2
+	Query: "genus:prionops preparations:skin" ; Times: 1
+	Query: "himantopus novaezelandiae vntype:specimen year &lt;= 1950" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "genus:Turnagra" ; Times: 1
+	Query: "specificepithet:iris genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "Atlapetes rufinucha" ; Times: 1
+	Query: "poecilotriccus senectus" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Cyanolyca" ; Times: 1
+	Query: "institutioncode:cm" ; Times: 1
+	Query: "vntype:specimen specificepithet:brevirostris genus:Rhynchocyclus family:Tyrannidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "spatula cyanoptera" ; Times: 2
+	Query: "worthen 1884" ; Times: 1
+	Query: "Salpinctes country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "priotelus vescus" ; Times: 1
+	Query: "Cichlopsis" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 6
+	Query: "muscicapa boehmi" ; Times: 3
+	Query: "tyrannus albogularis brazil" ; Times: 1
+	Query: "myioborus albifrons" ; Times: 2
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "basilan birds" ; Times: 2
+	Query: "genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 1
+	Query: "laniarius poensis" ; Times: 1
+	Query: "cmnh 1741" ; Times: 1
+	Query: "parus suluensis" ; Times: 1
+	Query: "penelope ortoni" ; Times: 1
+	Query: "genus:CNEMOTRICCUS country:&#34;bRAZIL&#34; institutioncode:CM" ; Times: 1
+	Query: "Crax rubra" ; Times: 8
+	Query: "melanerpes leei vntype:specimen institutioncode:CM" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 2
+	Query: "genus:Notiomystis" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 2
+	Query: "lagopus leucura" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Turdus plumbeus hastissue:1" ; Times: 2
+	Query: "vntype:specimen country:&#34;Trinidad and Tobago&#34; ( magnirostris)" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Fulica gigantea)" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "basileuterus griseiceps" ; Times: 1
+	Query: "dacnis egregia" ; Times: 1
+	Query: "dicrurus atripennis" ; Times: 1
+	Query: "specificepithet:americana genus:Parula recordedby:Smith" ; Times: 1
+	Query: "veniliornis orenocensis" ; Times: 2
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "Pipilo consobrinus" ; Times: 2
+	Query: "specificepithet:albiceps genus:psalidoprocne" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Eudyptes robustus)" ; Times: 1
+	Query: "myrmecocichla melaena" ; Times: 2
+	Query: "Rollandia rolland" ; Times: 2
+	Query: "CM 32835" ; Times: 1
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves continent:Africa" ; Times: 1
+	Query: "monticola explorator" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "gonads genus:loxia sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "cyclarhis septentrionalis" ; Times: 1
+	Query: "arachnothera randi" ; Times: 1
+	Query: "Saltator orenocensis" ; Times: 2
+	Query: "ficedula bonthaina" ; Times: 6
+	Query: "cyclarhis dorsalis" ; Times: 2
+	Query: "himantopus novaezelandiae year &lt;= 1950" ; Times: 2
+	Query: "specificepithet:fischeri genus:Tauraco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "melanerpes pauper" ; Times: 2
+	Query: "zoothera chuka" ; Times: 1
+	Query: "afra (skeleton)" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 6
+	Query: "Atlapetes fulviceps" ; Times: 2
+	Query: "specificepithet:cincta class:Aves country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "CM 32994" ; Times: 1
+	Query: "progne modesta" ; Times: 7
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "hemispingus reyi" ; Times: 1
+	Query: "Pardirallus maculatus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "hoeschi" ; Times: 1
+	Query: "basilornis celebensis" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 2
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "Camaroptera vntype:specimen (tincta )" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Mesitornis unicolor)" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:LATHROTRICCUS class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "myioborus cardonai" ; Times: 2
+	Query: "genus:Acanthisitta" ; Times: 1
+	Query: "CM 12264" ; Times: 2
+	Query: "veniliornis modestus" ; Times: 1
+	Query: "CM S12057" ; Times: 2
+	Query: "genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Campylorhynchus turdinus unicolor" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Apteryx haastii)" ; Times: 1
+	Query: "Opisthocomus hoazin country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Bahrmann" ; Times: 1
+	Query: "tinamus tao" ; Times: 2
+	Query: "poecilotriccus griseolus" ; Times: 2
+	Query: "specificepithet:hyperboreus genus:plectrophenax class:aves locality:hall stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "toxostoma arenicola" ; Times: 1
+	Query: "melancoryphus" ; Times: 1
+	Query: "CM 4230" ; Times: 1
+	Query: "myioborus pariae" ; Times: 2
+	Query: "melozone marshalli" ; Times: 2
+	Query: "specificepithet:calendula genus:Regulus locality:Isla Guadalupe" ; Times: 1
+	Query: "vntype:specimen specificepithet:deliciosus genus:Machaeropterus" ; Times: 2
+	Query: "Aratinga pertinax Venezuela vntype:specimen" ; Times: 2
+	Query: "specificepithet:rufa genus:sarothrura collectioncode:birds" ; Times: 1
+	Query: "turdus kessleri" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Mergus australis)" ; Times: 1
+	Query: "class:Aves locality:Ootacamund basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Capito quinticolor" ; Times: 1
+	Query: "CM 7731" ; Times: 1
+	Query: "minnesota Tyrannus tyrannus" ; Times: 1
+	Query: "CM 25544" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 2
+	Query: "genus:calyptura" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "macronyx sharpei" ; Times: 1
+	Query: "genus:Aquila county:&#34;san diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "pycnonotus simplex" ; Times: 1
+	Query: "frazar labrador" ; Times: 2
+	Query: "Atlapetes melanocephalus" ; Times: 1
+	Query: "Torreornis inexpectata" ; Times: 2
+	Query: "vntype:specimen country:&#34;Trinidad and Tobago&#34; (Oryzoborus )" ; Times: 1
+	Query: "specificepithet:elegans genus:progne" ; Times: 1
+	Query: "myioborus albifacies" ; Times: 3
+	Query: "CM 25547" ; Times: 1
+	Query: "numenius borealis" ; Times: 102
+	Query: "specificepithet:sharpei genus:macronyx hasmass:1" ; Times: 1
+	Query: "CM 33121" ; Times: 1
+	Query: "CM 11645" ; Times: 1
+	Query: "progne elegans" ; Times: 9
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 6
+	Query: "vntype:specimen preparations:skin (Xenicus lyalli )" ; Times: 1
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "Rollandia rolland chilensis" ; Times: 1
+	Query: "nothocercus bonapartei" ; Times: 2
+	Query: "42139-1" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 3
+	Query: "class:aves locality:homer stateprovince:&#34;alaska&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "diglossa venezuelensis" ; Times: 1
+	Query: "Coereba vntype:specimen (Croix)" ; Times: 1
+	Query: "setopagis parvulus" ; Times: 1
+	Query: "institutioncode:cm Pipra coronata" ; Times: 2
+	Query: "tangara johannae" ; Times: 1
+	Query: "todirostrum virididorsale" ; Times: 1
+	Query: "streptocitta albicollis" ; Times: 1
+	Query: "synthliboramphus microrhynchos" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "Anthony plumas county" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:CM" ; Times: 1
+	Query: "vntype:specimen genus:Cnemotriccus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "fmnh weight" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "basileuterus basilicus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "chlorostilbon canivetii" ; Times: 1
+	Query: "specificepithet:curvirostra genus:Loxia locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "CM 4601" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "melozone grisior" ; Times: 1
+	Query: "Carnegie museum" ; Times: 1
+	Query: "institutioncode:cm coronata" ; Times: 1
+	Query: "pogoniulus pusillus" ; Times: 1
+	Query: "CM 4232" ; Times: 1
+	Query: "Atlapetes semirufus" ; Times: 1
+	Query: "worthen labrador" ; Times: 1
+	Query: "specificepithet:poensis genus:laniarius" ; Times: 1
+	Query: "CM 36216" ; Times: 4
+	Query: "hirundo semirufa" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "vntype:specimen genus:ochthornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "CM 30878" ; Times: 4
+	Query: "specificepithet:peregrina genus:Vermivora month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Megabyas preparations:skin" ; Times: 1
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRIcCUS country:&#34;bRAZIL&#34;" ; Times: 1
+	Query: "sturnella saundersi" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Eudyptes schlegeli)" ; Times: 1
+	Query: "specificepithet:hirsuta genus:Tricholaema" ; Times: 2
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "dacnis hartlaubi" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "brachygalba phaeonota" ; Times: 1
+	Query: "CM 29505" ; Times: 2
+	Query: "myioborus flavivertex" ; Times: 1
+	Query: "specificepithet:harpyja genus:Harpia preparations:skin" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Gallirallus australis)" ; Times: 1
+	Query: "CM 47448" ; Times: 3
+	Query: "vntype:specimen genus:CNEMOTRICCUS country:&#34;bRAZIL&#34; institutioncode:CM" ; Times: 1
+	Query: "CM 28056" ; Times: 1
+	Query: "vntype:specimen genus:Ochthornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "poecilotriccus austroriparius" ; Times: 1
+	Query: "Regulus obscurus" ; Times: 1
+	Query: "melanerpes pygmaeus vntype:specimen institutioncode:CM" ; Times: 1
+	Query: "sterna maxima skeleton" ; Times: 2
+	Query: "class:Aves (33324)" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 6
+	Query: "andigena cucullata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1169 download events in this period)
+Total number of records downloaded: 4661
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Turdus nigrideus hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minimus genus:psaltriparus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "specificepithet:poensis genus:laniarius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Myiomela leucura" ; Times: 1
+	Query: "himantopus novaezelandiae vntype:specimen year &lt;= 1950" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "Nucifraga caryocatactes hastissue:1" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "moose" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "penelope ortoni" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 1
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+	Query: "genus:Aquila county:&#34;san diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+
+
+End of report.
