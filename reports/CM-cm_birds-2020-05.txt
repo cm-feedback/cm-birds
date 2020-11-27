@@ -1,0 +1,454 @@
+Report for Institution Code CM, Resource cm_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 438
+Number of records retrieved in searches: 2930
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 34
+	Country: United Kingdom ; Times: 16
+	Country: Peru ; Times: 9
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 192
+	Country: Belgium ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Ireland ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Paraguay ; Times: 3
+	Country: Brazil ; Times: 62
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 28
+	Country: Venezuela ; Times: 2
+	Country: Argentina ; Times: 24
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 18
+	Date: 2020-05-24 ; Times: 10
+	Date: 2020-05-27 ; Times: 26
+	Date: 2020-05-26 ; Times: 21
+	Date: 2020-05-21 ; Times: 3
+	Date: 2020-05-20 ; Times: 10
+	Date: 2020-05-23 ; Times: 10
+	Date: 2020-05-22 ; Times: 8
+	Date: 2020-05-29 ; Times: 15
+	Date: 2020-05-28 ; Times: 6
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-19 ; Times: 8
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-11 ; Times: 7
+	Date: 2020-05-12 ; Times: 8
+	Date: 2020-05-13 ; Times: 16
+	Date: 2020-05-14 ; Times: 7
+	Date: 2020-05-15 ; Times: 4
+	Date: 2020-05-16 ; Times: 16
+	Date: 2020-05-17 ; Times: 25
+	Date: 2020-05-30 ; Times: 11
+	Date: 2020-05-31 ; Times: 15
+	Date: 2020-05-09 ; Times: 6
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 69
+	Date: 2020-05-06 ; Times: 36
+	Date: 2020-05-05 ; Times: 8
+	Date: 2020-05-04 ; Times: 6
+	Date: 2020-05-03 ; Times: 7
+	Date: 2020-05-02 ; Times: 16
+	Date: 2020-05-01 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "myrmotherula hellmayri" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 4
+	Query: "34415" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 2
+	Query: "34410" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Prosobonia" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviventer genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:male" ; Times: 1
+	Query: "larus maculipennis" ; Times: 2
+	Query: "specificepithet:palpebrosus genus:zosterops hasmass:1" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:male" ; Times: 1
+	Query: "recordnumber:26196" ; Times: 2
+	Query: "baker 1894 aves" ; Times: 1
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "Culicivora caudacuta" ; Times: 3
+	Query: "genus:Nomonyx country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "formicarius paraensis" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "ilicura militaris" ; Times: 1
+	Query: "specificepithet:nigrocapitata genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 2
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:male" ; Times: 1
+	Query: "coccyzus americanus Bolivia" ; Times: 1
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 6
+	Query: "36803" ; Times: 1
+	Query: "cyornis herioti" ; Times: 3
+	Query: "manacus manacus gutturosus" ; Times: 2
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "lycocorax" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "genus:Torreornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "genus:phaetusa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "specificepithet:ignobilis genus:turdus hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Sporophila class:Aves country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 5
+	Query: "family:Emberizidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Salpinctes family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myrmoborus incanus" ; Times: 1
+	Query: "family:Cardinalidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Junco hyemalis nova scotia" ; Times: 1
+	Query: "specificepithet:fulvigula stateprovince:&#34;Aguascalientes&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aimophila extima" ; Times: 2
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 1
+	Query: "family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "genus:Hirundo family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eurylaimus steerii" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "genus:Strix country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen class:Aves recordedby:Garbe basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dacnis viguieri" ; Times: 2
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:female" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "gypaetus" ; Times: 1
+	Query: "specificepithet:capitalis genus:stachyris country:&#34;philippines&#34;" ; Times: 2
+	Query: "buteo galapagoensis" ; Times: 4
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas sex:male" ; Times: 1
+	Query: "genus:Cyanocitta family:Corvidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:male" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Salpinctes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "genus:Micrathene stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "family:Turdidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:Strigidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "Thalasseus sandvicensis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "ANSP-3775" ; Times: 2
+	Query: "gallinago stricklandii" ; Times: 2
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 4
+	Query: "genus:batrachostomus year &gt;= 1985" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "gymnopithys lateralis" ; Times: 1
+	Query: "family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis hastissue:1" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:stolidus genus:Anous country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 3
+	Query: "dysithamnus tambillanus" ; Times: 2
+	Query: "vntype:specimen specificepithet:americana genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Rynchops &#34;ws&#34;" ; Times: 1
+	Query: "family:Parulidae class:aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 3
+	Query: "charadrius placidus" ; Times: 1
+	Query: "specificepithet:guttatus genus:xiphorhynchus country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:melanurus genus:ramphocaenus hasmass:1" ; Times: 2
+	Query: "dysithamnus cumbreanus" ; Times: 1
+	Query: "dacnis egregia" ; Times: 3
+	Query: "Rynchops niger ws OR wingspan OR wing+span" ; Times: 10
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:male" ; Times: 1
+	Query: "San pedro Martir class:aves hastissue:1" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "saphirina" ; Times: 1
+	Query: "specificepithet:bahamensis genus:Anas family:Anatidae country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Anas platyrhynchos ws OR wingspan OR wing+span" ; Times: 8
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventris genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 6
+	Query: "class:aves hasmass:1 isfossil:0 island:Vancouver" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanoides minnesota" ; Times: 4
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "genus:Dumetella family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "genus:Haliaeetus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Laniidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 5
+	Query: "vntype:specimen specificepithet:lineata genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "quiscalus minnesota" ; Times: 2
+	Query: "Vireolanius eximius" ; Times: 11
+	Query: "38185" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "specificepithet:morphoeus genus:Monasa country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:sordidulus genus:contopus county:&#34;ventura&#34; institutioncode:CM" ; Times: 1
+	Query: "Lycocorax" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "terenura meridionalis" ; Times: 3
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:male" ; Times: 1
+	Query: "hypocnemis implicata" ; Times: 2
+	Query: "Sarothrura" ; Times: 1
+	Query: "specificepithet:everetti genus:Hypsipetes country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:female" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "specificepithet:bicolor genus:dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "aimophila duponti" ; Times: 3
+	Query: "genus:Torreornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "&#34;very heavy&#34; egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; institutioncode:CM" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:male" ; Times: 1
+	Query: "Cm heliangelus exortis" ; Times: 1
+	Query: "Halcyon winchelli nesydrionetes" ; Times: 1
+	Query: "country:&#34;Colombia&#34; institutioncode:CM" ; Times: 1
+	Query: "Xiphocolaptes emigrans" ; Times: 1
+	Query: "Icterus Salvinii" ; Times: 1
+	Query: "family:Columbidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "genus:Doryfera country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "Andigena nigrirostris" ; Times: 5
+	Query: "poecilotriccus griseolus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:marginatus genus:Pachyramphus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "genus:chamaeza country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "institutioncode:CM 24695" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "family:Parulidae stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 2
+	Query: "alectrurus" ; Times: 2
+	Query: "genus:Progne family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "synallaxis littoralis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "geotrygon saphirina" ; Times: 3
+	Query: "specificepithet:herioti genus:cyornis country:&#34;philippines&#34;" ; Times: 4
+	Query: "family:Charadriidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:peposaca country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "formicarius virescens" ; Times: 3
+	Query: "vntype:specimen specificepithet:lineola genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:juvenile sex:male" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "genus:oreortyx stateprovince:&#34;california&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "charadrius modestus" ; Times: 1
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "recordnumber:5802 institutioncode:CM" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "IF 10041" ; Times: 1
+	Query: "Sturnus contra" ; Times: 2
+	Query: "Rynchops ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "gbifdatasetid:a82d2421-be5a-4779-babc-da0b634a7ba8" ; Times: 1
+	Query: "Icterus Salvinii Costa Rica" ; Times: 1
+	Query: "ANSP-3828" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "family:Parulidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Agelaius family:icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "peru class:aves stateprovince:&#34;arequipa&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "33761" ; Times: 1
+	Query: "melozone grisior" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Thamnophilus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "family:Cathartidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "genus:Mimus family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "coccyzus americanus Venezuela" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Sturnella family:icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Strigidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:female" ; Times: 1
+	Query: "Amazona oratrix tamaulipas" ; Times: 1
+	Query: "family:Cuculidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thalasseus ws OR wingspan OR wing+span" ; Times: 3
+	Query: "genus:Vultur" ; Times: 5
+	Query: "specificepithet:ruficeps genus:Aimophila stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;Tamaulipas&#34;" ; Times: 2
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "family:Corvidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 5
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "myrmoborus proximus" ; Times: 2
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "dacnis hartlaubi" ; Times: 4
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 2
+	Query: "Anas diazi sex:female" ; Times: 2
+	Query: "genus:Sayornis family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "specificepithet:Obsoletus genus:Salpinctes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sporophila class:Aves country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "aimophila pallidissima" ; Times: 1
+	Query: "Texas Grus americana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 1106 download events in this period)
+Total number of records downloaded: 30495
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 12
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 42
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-24 ; Times: 4
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-14 ; Times: 4
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 7
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-06 ; Times: 11
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Garbe basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "manacus manacus gutturosus" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 2
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "class:(aves OR Aves) continent:North America" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "genus:Toxostoma stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
