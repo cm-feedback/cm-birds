@@ -1,0 +1,474 @@
+Report for Institution Code CM, Resource cm_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 473
+Number of records retrieved in searches: 3907
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 36
+	Country: Ireland ; Times: 5
+	Country: Unknown ; Times: 28
+	Country: France ; Times: 17
+	Country: Peru ; Times: 10
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 23
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 12
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 163
+	Country: New Zealand ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: Uruguay ; Times: 5
+	Country: Mexico ; Times: 33
+	Country: India ; Times: 12
+	Country: United Kingdom ; Times: 42
+	Country: Malaysia ; Times: 2
+	Country: Austria ; Times: 18
+	Country: Colombia ; Times: 38
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 9
+	Date: 2020-07-21 ; Times: 29
+	Date: 2020-07-20 ; Times: 31
+	Date: 2020-07-27 ; Times: 7
+	Date: 2020-07-26 ; Times: 25
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-22 ; Times: 23
+	Date: 2020-07-01 ; Times: 9
+	Date: 2020-07-03 ; Times: 23
+	Date: 2020-07-02 ; Times: 37
+	Date: 2020-07-05 ; Times: 10
+	Date: 2020-07-04 ; Times: 10
+	Date: 2020-07-07 ; Times: 6
+	Date: 2020-07-06 ; Times: 16
+	Date: 2020-07-24 ; Times: 16
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-29 ; Times: 51
+	Date: 2020-07-18 ; Times: 13
+	Date: 2020-07-19 ; Times: 6
+	Date: 2020-07-12 ; Times: 6
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 13
+	Date: 2020-07-11 ; Times: 5
+	Date: 2020-07-16 ; Times: 14
+	Date: 2020-07-31 ; Times: 17
+	Date: 2020-07-14 ; Times: 22
+	Date: 2020-07-17 ; Times: 34
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-28 ; Times: 11
+	Date: 2020-07-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "102105" ; Times: 1
+	Query: "schoutedenapus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 4
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "Dominican Republic tubano" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:castaneiventris genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "year &gt;= 1960 year &lt;= 1960 month &gt;= 9 month &lt;= 9 institutioncode:CM" ; Times: 1
+	Query: "genus:ardeola class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "siquijorensis cinereiceps" ; Times: 1
+	Query: "Timalia pileata" ; Times: 2
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Manucodia ater" ; Times: 2
+	Query: "Halcyon OR Todiramphus OR Todirhampus Temotu" ; Times: 2
+	Query: "specificepithet:flavipennis genus:chloropsis country:&#34;philippines&#34;" ; Times: 4
+	Query: "specificepithet:ignipectus genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "Xenicus" ; Times: 1
+	Query: "MCZ 7044" ; Times: 2
+	Query: "Amazilia candida" ; Times: 3
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:jacanidae class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "blossom expedition" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 4
+	Query: "Androdon" ; Times: 1
+	Query: "HIRUNDAPUS CELEBENSIS" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "institutioncode:CM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 3
+	Query: "apus batesi" ; Times: 2
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "institutioncode:cm Psittacula" ; Times: 2
+	Query: "12348 aves" ; Times: 2
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:pulcherrima country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "japurá" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "genus:charadrius class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "genus:hypocryptadius country:&#34;philippines&#34;" ; Times: 1
+	Query: "tachycineta meyeni" ; Times: 1
+	Query: "neafrapus boehmi" ; Times: 4
+	Query: "27204" ; Times: 1
+	Query: "specificepithet:sylvatica genus:turnix country:&#34;philippines&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus savana" ; Times: 2
+	Query: "Colaptes pitius" ; Times: 5
+	Query: "genus:turdus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Mergus australis" ; Times: 2
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 4
+	Query: "country:&#34;Colombia&#34; Spiza americana" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34; institutioncode:CM" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "hastypestatus:1 Crypturus idoneus" ; Times: 1
+	Query: "specificepithet:minor genus:aplonis country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 2
+	Query: "heilprini" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 2
+	Query: "Acanthisitta chloris granti" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chondestes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "vntype:specimen specificepithet:coerulescens genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Buteo harlani Colorado" ; Times: 1
+	Query: "specificepithet:angustifrons genus:Psarocolius country:&#34;Venezuela&#34; hastissue:1" ; Times: 1
+	Query: "crypturellus harterti" ; Times: 2
+	Query: "terenura meridionalis" ; Times: 1
+	Query: "buteo harlani colorado" ; Times: 1
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "genus:oriolus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 5
+	Query: "Hypsipetes siquijorensis 1892" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga flava" ; Times: 3
+	Query: "campephilus imperialis" ; Times: 7
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "specificepithet:finschi order:galliformes" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:CM" ; Times: 2
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "flavotectus" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "institutioncode:cm" ; Times: 4
+	Query: "specificepithet:imitans genus:Euphonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 1
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "mohoua albicilla" ; Times: 2
+	Query: "28482" ; Times: 1
+	Query: "ANSP-3775" ; Times: 2
+	Query: "catalognumber:S9196 institutioncode:CM" ; Times: 2
+	Query: "27204 aves" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "crypturellus andrei" ; Times: 1
+	Query: "Spelaeornis chocolatinus" ; Times: 3
+	Query: "catalognumber:S12392 institutioncode:CM" ; Times: 1
+	Query: "AMNH 23136" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "specificepithet:nigricollis genus:Podiceps preparations:eggs" ; Times: 1
+	Query: "vntype:specimen specificepithet:minuta genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "Hypsipetes siquijorensis" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 1
+	Query: "genus:falco class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "catalognumber:P170931 institutioncode:CM" ; Times: 1
+	Query: "larus bulleri" ; Times: 3
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 1
+	Query: "specificepithet:glacialis genus:fulmarus preparations:Fluid" ; Times: 1
+	Query: "Cerro Flores panama" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "Spelaeornis longicaudatus" ; Times: 3
+	Query: "specificepithet:swierstrai order:galliformes" ; Times: 1
+	Query: "lyalli" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "Crypturellus cinereus rufescens" ; Times: 1
+	Query: "genus:accipiter class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus soui" ; Times: 2
+	Query: "specificepithet:cela genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;jiangxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "Contopus virens Colombia" ; Times: 2
+	Query: "Crypturellus strigulosus" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Temotu OR Santa Cruz NOT Philippines" ; Times: 1
+	Query: "Peru Orosa Rio Amazonas" ; Times: 1
+	Query: "country:&#34;Colombia&#34; piranga flava" ; Times: 3
+	Query: "Finca Sepacuite" ; Times: 2
+	Query: "genus:acridotheres class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34; year &gt;= 1895 year &lt;= 1909" ; Times: 1
+	Query: "Cittura" ; Times: 1
+	Query: "genus:tringa class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "dryocopus javensis" ; Times: 1
+	Query: "specificepithet:bicolor genus:dicaeum country:&#34;philippines&#34;" ; Times: 3
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "gavia AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+	Query: "genus:garrulus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Rynchops flavirostris" ; Times: 6
+	Query: "Halcyon OR Todiramphus OR Todirhampus TEMOTU" ; Times: 1
+	Query: "Macroagelaius" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "specificepithet:arnotti institutioncode:CM" ; Times: 2
+	Query: "myrmeciza loricata" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "genus:cinclus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "AMNH 56845" ; Times: 1
+	Query: "genus:acridotheres class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "crypturellus poliocephalus" ; Times: 1
+	Query: "Halcyon chloris Vanuatu AMNH" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Setophaga ruticilla" ; Times: 2
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "habia peruviana" ; Times: 1
+	Query: "Conirostrum rufum" ; Times: 1
+	Query: "Tricholaema hirsuta" ; Times: 1
+	Query: "Rabor DMNH" ; Times: 1
+	Query: "chloris granti" ; Times: 2
+	Query: "Vanellus tectus" ; Times: 6
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Catharus minimus" ; Times: 1
+	Query: "stateprovince:&#34;New Jersey&#34; zonotrichia ovary" ; Times: 1
+	Query: "mus caroli" ; Times: 2
+	Query: "Ficedula erithacus" ; Times: 3
+	Query: "specificepithet:glacialis genus:fulmarus preparations:fluid" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;tanzania&#34;" ; Times: 5
+	Query: "Tricholaema ansorgii" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "ensifera ensifera aves south america" ; Times: 2
+	Query: "stateprovince:&#34;New Jersey&#34; ovary" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus variegatus" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:sulphurata genus:Emberiza country:&#34;philippines&#34;" ; Times: 1
+	Query: "Contopus virens Venezuela" ; Times: 1
+	Query: "JUAN LISIarRAGA MOUNTAIN" ; Times: 1
+	Query: "Psittacus erithacus timneh" ; Times: 1
+	Query: "Traversia lyalli" ; Times: 1
+	Query: "gbifdatasetid:a82d2421-be5a-4779-babc-da0b634a7ba8" ; Times: 1
+	Query: "sapayoa AND (skin) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Hypsipetes siquijorensis cinereiceps" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "specificepithet:viridifacies country:&#34;philippines&#34;" ; Times: 1
+	Query: "Brazil Salto Grande Rio Paranapanema" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 2
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus" ; Times: 2
+	Query: "Halcyon chloris Vanuatu" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 2
+	Query: "genus:vanellus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Euphonia xanthogaster ruficeps" ; Times: 1
+	Query: "Spatula discors Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricollis genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:scotops genus:eremomela institutioncode:CM" ; Times: 4
+	Query: "campephilus principalis" ; Times: 10
+	Query: "phainoptila" ; Times: 1
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 3
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "institutioncode:CM" ; Times: 1
+	Query: "Iole cinereiceps" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Contopus cooperi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:CM" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 2
+	Query: "Chlidonias albostriatus" ; Times: 1
+	Query: "genus:ceryle class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "hastypestatus:1 cinnamomea" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus dominicensis" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Santa Cruz" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Progne tapera" ; Times: 1
+	Query: "parus major ovary" ; Times: 1
+	Query: "country:&#34;tanzania&#34; year &gt;= 1960 year &lt;= 1960 month &gt;= 9 month &lt;= 9 institutioncode:CM" ; Times: 1
+	Query: "genus:Psarisomus preparations:skeleton" ; Times: 1
+	Query: "country:&#34;India&#34; ovary" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Nendo" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "genus:accipiter class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34; year &gt;= 1895 year &lt;= 1909" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "23630" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 4
+	Query: "Euphonia imitans" ; Times: 3
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "procelsterna albivitta" ; Times: 2
+	Query: "hylexetastes" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "CM Birds 37752" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Pygochelidon cyanoleuca" ; Times: 5
+	Query: "elminia albicauda" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "genus:machetornis" ; Times: 3
+	Query: "specificepithet:niger order:galliformes" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Contopus virens" ; Times: 1
+	Query: "Thalasseus acuflavidus" ; Times: 2
+	Query: "crypturellus inconspicuus" ; Times: 2
+	Query: "nothoprocta pentlandii" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Temotu OR Santa Cruz" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 2
+	Query: "aegithalos concinnus india" ; Times: 2
+	Query: "mohoua novaeseelandiae" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 4
+	Query: "specificepithet:angustifrons genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "Contopus virens Brazil" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 5
+	Query: "buteo harlani michigan" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "myrmophylax" ; Times: 1
+	Query: "class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34; year &gt;= 1895 year &lt;= 1909" ; Times: 1
+	Query: "vntype:specimen specificepithet:holosericeus genus:Amblycercus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "sapayoa" ; Times: 1
+	Query: "hirundapus celebensis" ; Times: 2
+	Query: "Colombia Cauca Caldas" ; Times: 1
+	Query: "Fort Thorne" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Vireo olivaceus" ; Times: 4
+	Query: "siquijorensis 1892" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 2
+	Query: "genus:Tympanuchus recordedby:Labedz" ; Times: 3
+	Query: "country:&#34;Colombia&#34; Pheucticus ludovicianus" ; Times: 1
+	Query: "Buteo harlani Iowa" ; Times: 3
+	Query: "Euphonia ruficeps" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "Accipiter gentilis mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 940 download events in this period)
+Total number of records downloaded: 27324
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: Philippines ; Times: 8
+	Country: Austria ; Times: 15
+	Country: France ; Times: 2
+	Country: United States ; Times: 20
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Peru ; Times: 7
+	Country: South Korea ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-17 ; Times: 15
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:CM" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 2
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "genus:oriolus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "heilprini" ; Times: 1
+	Query: "genus:ardeola class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "genus:accipiter class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34; year &gt;= 1895 year &lt;= 1909" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:finschi order:galliformes" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Rabor DMNH" ; Times: 1
+	Query: "RABOR AMNH" ; Times: 1
+	Query: "specificepithet:swierstrai order:galliformes" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "family:jacanidae class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "RABOR YPM" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "country:&#34;tanzania&#34; year &gt;= 1960 year &lt;= 1960 month &gt;= 9 month &lt;= 9 institutioncode:CM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;jiangxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "genus:acridotheres class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34; year &gt;= 1895 year &lt;= 1909" ; Times: 1
+	Query: "Rabor FMNH" ; Times: 1
+	Query: "genus:charadrius class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Rabor AMNH" ; Times: 3
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "genus:falco class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:cinclus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "genus:vanellus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "genus:turdus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "genus:garrulus class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "specificepithet:niger order:galliformes" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "genus:tringa class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "genus:ceryle class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+
+
+End of report.
